@@ -1,0 +1,60 @@
+h1{
+	background-color: powerblue;
+	text-shadow: 2px 2px blue;
+	font-family:Georgia;
+}
+h2,h3{
+	color:white;
+}
+p{
+	color: white;
+	text-align: center;
+	font-family:  "Courier New",Courier,monospace;
+	
+}
+.topnav {
+  background-color: rgb(58,90,142);
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: underline overline;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: rgb(12,50,112);
+  color: white;
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: rgb(120,120,120);
+}
+.topnav a.active {
+  border-bottom: 3px blue;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(58,90,142);
+   color: white;
+   text-align: center;
+   font-size:10px;
+	
+}
+#rcorners1 {
+  border-radius: 25px;
+  background: rgb(43, 175, 87);
+  padding: 20px; 
+  width: 200px;
+  height: 255px;  
